@@ -1,4 +1,4 @@
-#Martin Marcelino Tarigan/2206029645
+# Martin Marcelino Tarigan/2206029645
 
 import math
 
@@ -57,5 +57,6 @@ def koreksi(): #function hitung skor nilai
     global nilai
     nilai = math.floor((countBenar / len(lstJawaban)) * 100)
 
-main()
+if __name__ == "__main__":
+    main()
 
