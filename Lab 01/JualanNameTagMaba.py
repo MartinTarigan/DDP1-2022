@@ -1,3 +1,5 @@
+# Martin Marcelino Tarigan/2206029645
+
 import math
 
 #function kalkulasi
