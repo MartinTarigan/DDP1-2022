@@ -54,7 +54,7 @@ def searchID():
                 print(f'- {id}')
         else:
             print(f'Tidak ditemukan mahasiswa dan NPM yang lahir di bulan {inpMonth}.')
-    
-main()
+if __name__ == "__main__":
+    main()
 
   
