@@ -1,0 +1,7 @@
+![Soal Lab 2 (1)-page-001](https://user-images.githubusercontent.com/113441970/216392841-2bfaf4dd-fbea-4faa-bee8-dc2ecce6d84b.jpg)
+![Soal Lab 2 (1)-page-002](https://user-images.githubusercontent.com/113441970/216392880-2cc3251c-9ac6-441b-8116-3fc1bbdcf92f.jpg)
+![Soal Lab 2 (1)-page-003](https://user-images.githubusercontent.com/113441970/216392892-a08eb9d9-9771-4afe-afe3-d7eadaa544e8.jpg)
+![Soal Lab 2 (1)-page-004](https://user-images.githubusercontent.com/113441970/216392895-548fda7c-f8a5-4b9a-a8b1-245ff46c3c61.jpg)
+![Soal Lab 2 (1)-page-005](https://user-images.githubusercontent.com/113441970/216392901-da9cf7f6-ae14-4175-a03e-54040572364c.jpg)
+![Soal Lab 2 (1)-page-006](https://user-images.githubusercontent.com/113441970/216392905-b7adffd5-1d87-4d21-b0b9-db206eb4bbb5.jpg)
+![Soal Lab 2 (1)-page-007](https://user-images.githubusercontent.com/113441970/216392920-26433aa7-cb91-47d8-a96b-1e31df7c145b.jpg)
