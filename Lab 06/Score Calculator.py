@@ -1,13 +1,15 @@
-import math #untuk nilai floor
+#Martin Marcelino Tarigan/2206029645
 
-#list kosong dan variabel kosong
+import math
+
+#data
 lstKunci = []
 lstJawaban = []
 countBenar = 0
 nilai = 0
 isRun = True
 
-def main(): #function memulai program
+def main(): 
     print("Selamat mencoba Program Pemeriksa Nilai Dek Depe!")
     print("=================================================")
     insertKunciJawaban()
