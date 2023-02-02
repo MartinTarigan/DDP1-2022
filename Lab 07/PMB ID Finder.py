@@ -1,4 +1,6 @@
-#list, set, dictionary
+# Martin Marcelino Tarigan/2206029645
+
+#data
 setID = set()
 lstID = []
 lstName = []
